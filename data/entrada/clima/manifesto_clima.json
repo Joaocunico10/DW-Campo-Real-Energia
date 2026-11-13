@@ -1,0 +1,102 @@
+[
+    {
+        "arquivo": "clima_usinas_1.json",
+        "ids_usinas": [
+            1
+        ],
+        "latitude": -21.138,
+        "longitude": -47.99,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_2.json",
+        "ids_usinas": [
+            2
+        ],
+        "latitude": -30.89,
+        "longitude": -55.53,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_3_16.json",
+        "ids_usinas": [
+            3,
+            16
+        ],
+        "latitude": -5.537,
+        "longitude": -35.819,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_4.json",
+        "ids_usinas": [
+            4
+        ],
+        "latitude": -26.775,
+        "longitude": -51.015,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_5.json",
+        "ids_usinas": [
+            5
+        ],
+        "latitude": 15.803,
+        "longitude": -43.308,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_6.json",
+        "ids_usinas": [
+            6
+        ],
+        "latitude": -13.255,
+        "longitude": -43.418,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_7.json",
+        "ids_usinas": [
+            7
+        ],
+        "latitude": -25.48,
+        "longitude": -53.61,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_8.json",
+        "ids_usinas": [
+            8
+        ],
+        "latitude": -12.025,
+        "longitude": -48.54,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    },
+    {
+        "arquivo": "clima_usinas_9.json",
+        "ids_usinas": [
+            9
+        ],
+        "latitude": -4.867,
+        "longitude": -44.36,
+        "primeiro_horario": "2025-01-01T00:00",
+        "ultimo_horario": "2026-11-13T23:00",
+        "total_registros": 16368
+    }
+]
